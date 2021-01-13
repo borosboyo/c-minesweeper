@@ -1,0 +1,25 @@
+Jakab 215 3
+Elek 200 1
+Tobias 100 2
+Feri 23 1
+Geza 765 3
+Aranka 120 2
+Lenke 50 1
+Pista 421 3
+Viola 43 1
+Ilus 77 1
+Aron 547 2
+Szilard 76 1
+Erno 600 3
+Cina 321 2
+Erika 88 1
+Ella 42 1
+Kolos 23 2
+Anna 70 3
+Ica 32 2
+Eszti 321 3
+Aladar 211 3
+Elemer 23 1
+Pali 52 1
+Reka 59 1
+Antal 90 1aladar 10 1

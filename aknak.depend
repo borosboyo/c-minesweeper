@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1575240970 source:c:\users\boros\desktop\aknak\jatekallas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"debugmalloc.h"
+	"jatekallas.h"
+
+1571839658 c:\users\boros\desktop\aknak\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1571839656 c:\users\boros\desktop\aknak\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575233407 c:\users\boros\desktop\aknak\jatekallas.h
+
+1575241026 source:c:\users\boros\desktop\aknak\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"megjelenites.h"
+	"jatekallas.h"
+
+1575238637 c:\users\boros\desktop\aknak\megjelenites.h
+	"jatekallas.h"
+
+1575240908 source:c:\users\boros\desktop\aknak\megjelenites.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"debugmalloc.h"
+	"megjelenites.h"
+
